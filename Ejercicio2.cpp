@@ -6,7 +6,7 @@
 
 // Delcaracion de Librerías.
 #include <iostream>
-#include <math>
+#include <cmath>
 
 // Declaracion de Variables.
 float ca = 6, co = 8, r = 0;
